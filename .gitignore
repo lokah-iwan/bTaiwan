@@ -1,0 +1,4 @@
+# Unencrypted source holds home addresses; only the encrypted index.html is published.
+src/
+.claude/
+.staticrypt.json
